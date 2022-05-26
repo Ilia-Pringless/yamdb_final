@@ -4,7 +4,7 @@
 
 Проект YaMDb собирает отзывы (Review) пользователей на произведения (Titles). Произведения делятся на категории: «Книги», «Фильмы», «Музыка». Список категорий (Category) может быть расширен администратором (например, можно добавить категорию «Изобразительное искусство» или «Ювелирка»). Также имеется возможность оставлять комментарии (Comments) к отзывам.
 
-!(https://github.com/Ilia-Pringless/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+(https://github.com/Ilia-Pringless/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 ## Шаблон заполнения env-файла
 
