@@ -14,8 +14,7 @@ ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
     '[::1]',
-    'testserver',
-    '51.250.102.12'
+    '130.193.34.132'
 ]
 
 INSTALLED_APPS = [
