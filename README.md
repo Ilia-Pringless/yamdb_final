@@ -2,7 +2,7 @@
 
 ![workflow](https://github.com/Ilia-Pringless/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
-- ip страницы администриования 
+- ip страницы администриования
 ```
 130.193.54.148/admin/
 ```
