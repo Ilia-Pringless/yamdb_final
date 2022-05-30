@@ -12,8 +12,9 @@ DEBUG = True
 # ALLOWED_HOSTS = os.getenv('HOSTS', default='localhost')
 
 ALLOWED_HOSTS = [
+    'localhost',
+    '127.0.0.1',
     '130.193.54.148',
-    '127.0.0.1'
     'web',
 ]
 
